@@ -37,7 +37,7 @@ body {
     top: 50%;
     transform: translateY(-50%);
     overflow: hidden;
-    padding: 40px;
+    padding: 75px 45px;
 }
 input {
     width: 70%;
